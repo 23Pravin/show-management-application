@@ -1,0 +1,12 @@
+{
+  "name": "pipe-project",
+  "version": "1.0.0",
+  "description": "A project to set up a JSON server with a list of shows",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000 --static ./public"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

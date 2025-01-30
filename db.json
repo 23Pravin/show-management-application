@@ -1,0 +1,34 @@
+{
+  "shows": [
+    {
+      "id": 1,
+      "name": "Show 1",
+      "code": "S1",
+      "imageUrl": "http://localhost:3000/images/1.png"
+    },
+    {
+      "id": 2,
+      "name": "Show 2",
+      "code": "S2",
+      "imageUrl": "http://localhost:3000/images/2.png"
+    },
+    {
+      "id": 3,
+      "name": "Show 3",
+      "code": "S3",
+      "imageUrl": "http://localhost:3000/images/3.png"
+    },
+    {
+      "id": 4,
+      "name": "Show 4",
+      "code": "S4",
+      "imageUrl": "http://localhost:3000/images/4.png"
+    },
+    {
+      "id": 5,
+      "name": "show_0",
+      "code": "S8",
+      "imageUrl": "http://localhost:3000/images/11.png"
+    }
+  ]
+}
